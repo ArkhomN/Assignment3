@@ -1,0 +1,20 @@
+Association analysis between SNPs and ADP-induced platelet aggregation levels:
+SNP: rs4244285
+  Estimate: 12.953263139785
+  Std. Error: 3.32608116625199
+  t-value: 3.89445190671083
+  p-value: 0.000132790872730494
+
+SNP: rs4986893
+  Estimate: 26.1477310316898
+  Std. Error: 8.47221611425203
+  t-value: 3.08629178942967
+  p-value: 0.00230387964922532
+
+SNP: rs662
+  Estimate: 1.02521475350565
+  Std. Error: 3.24153999243998
+  t-value: 0.316273979619777
+  p-value: 0.752113251612589
+
+
